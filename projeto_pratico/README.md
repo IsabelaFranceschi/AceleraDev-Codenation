@@ -20,6 +20,7 @@ Portfolio 3: Ids dos clientes da empresa 3
 Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de população).
 
 
+
 Link para download das bases Mercado, Portfolio 1, Portfolio 2 e Portfolio 3 respectivamente:
 
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_market.csv.zip
@@ -32,7 +33,7 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 
 
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
-Descrição de variáveis
+
 
 ## Requisitos técnicos obrigatórios
 
