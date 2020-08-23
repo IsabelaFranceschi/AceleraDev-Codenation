@@ -21,9 +21,13 @@ Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de po
 
 
 Link para download das bases Mercado, Portfolio 1, Portfolio 2 e Portfolio 3 respectivamente:
+
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_market.csv.zip
+
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_portfolio1.csv
+
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_portfolio2.csv
+
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_portfolio3.csv
 
 
