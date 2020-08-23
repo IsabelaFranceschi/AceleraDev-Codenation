@@ -10,10 +10,15 @@ Além disso, sua solução deve ser agnóstica ao usuário. Qualquer usuário co
 Para o desafio, deverão ser consideradas as seguintes bases:
 
 Mercado: Base com informações sobre as empresas do Mercado a ser considerado. 
+
 Portfolio 1: Ids dos clientes da empresa 1 
+
 Portfolio 2: Ids dos clientes da empresa 2 
+
 Portfolio 3: Ids dos clientes da empresa 3
+
 Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de população).
+
 
 Link para download das bases Mercado, Portfolio 1, Portfolio 2 e Portfolio 3 respectivamente:
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_market.csv.zip
@@ -21,12 +26,16 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_portfolio2.csv
 https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_portfolio3.csv
 
+
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
 Descrição de variáveis
 
 ## Requisitos técnicos obrigatórios
 
 •	Utilizar técnicas de data science e machine learning para desenvolver o projeto;
+
 •	Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra tecnologia de apresentação de Output de modelos de Machine Learning;
+
 •	A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados;
+
 •	Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
